@@ -108,5 +108,8 @@ manish:
 
 ---
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manish-npx&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 _Last updated: November 14, 2025_
 
