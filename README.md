@@ -20,7 +20,7 @@
 ```javascript
 const manish = {
 pronouns: "he" | "him",
-code: ["JavaScript", "TypeScript", "Go", "Python"],
+code: ["JavaScript", "TypeScript", "Go", "PHP"],
 frameworks: ["React", "Node.js", "Echo", "Express"],
 databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
 tools: ["Docker", "Kubernetes", "AWS", "Git", "Jenkins"],
