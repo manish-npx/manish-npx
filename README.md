@@ -7,10 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/manish-npx"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=grey" alt="LinkedIn"/></a>
+  <a href="mailto:manish2am@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=yellow" alt="Email"/></a>
 </p>
 
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -49,12 +47,10 @@ manish:
     - Kubernetes
     - AWS
     - Git
-    - Jenkins
   architecture:
     - Microservices
     - Serverless
     - REST APIs
-    - GraphQL
   currentFocus: "Building scalable backend systems with Go"
   funFact: "I can break production with just 'git push' 😅"
 ```
@@ -79,7 +75,6 @@ manish:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=go&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Database**
 
@@ -94,7 +89,6 @@ manish:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 ---
 
@@ -108,8 +102,8 @@ manish:
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manish-npx&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manish-npx&bg_color=011627&color=c792ea&line=c792ea&point=ffeb95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-_Last updated: November 14, 2025_
+_Last updated: FEB 22, 2026_
 
